@@ -7,3 +7,7 @@ let myCountry = 'Countr: Nigeria';
 console.log(myFullName)
 console.log(myHeight)
 console.log(myCountry)
+
+document.getElementById("javascript").innerHTML = "Name: Akanni Kolawole .O";
+document.getElementById("javascript1").innerHTML = "Height: 170cm";
+document.getElementById("javascript2").innerHTML = "Country: Nigeria";
