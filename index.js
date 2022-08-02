@@ -1,0 +1,9 @@
+alert("Welcome to my first JavaScript enabled page");
+console.log("My name is Akanni Kolawole .O");
+let myFullName = 'Name: Akanni Kolawole .O';
+let myHeight = 'Height: 170cm';
+let myCountry = 'Countr: Nigeria';
+
+console.log(myFullName)
+console.log(myHeight)
+console.log(myCountry)
